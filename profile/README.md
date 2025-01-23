@@ -13,14 +13,7 @@ Mentat is a GitHub bot that seamlessly integrates with your development workflow
 
 ## 🚀 Get Started
 
-1. Visit [mentat.ai](https://mentat.ai) to learn more about our product
-2. Install Mentat on your repositories
-3. Start collaborating with AI to boost your development productivity
-
-## 🔗 Links
-
-- Website: [mentat.ai](https://mentat.ai)
-- GitHub App: [Mentat GitHub App](https://github.com/apps/mentat-ai)
+Visit [mentat.ai](https://mentat.ai) to learn more about Mentat and start the installation process for your repositories. Our simple setup process will have you collaborating with AI to boost your development productivity in minutes.
 
 ---
 
